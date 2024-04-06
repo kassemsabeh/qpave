@@ -1,6 +1,7 @@
 *.csv
 *.ipynb
 *.pyc
+*.pdf
 __pycache__
 .vscode
 .DS_Store
