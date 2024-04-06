@@ -1,0 +1,10 @@
+numpy 
+pandas
+transformers
+datasets
+torch
+accelerate
+torchtext
+scikit-learn
+tqdm
+absl-py
