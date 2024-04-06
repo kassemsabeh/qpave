@@ -4,7 +4,7 @@ This repository contains the datasets and source code used in our paper: QPAVE: 
 
 ## Installation
 1. Clone the repository
-2. Download the datasets [**HERE**](https://github.com/kassemsabeh/qpave/data). Once you unzip the downloaded files, please put the downloaded folders under the directory ```./data/```.
+2. Download the datasets [**HERE**](https://github.com/kassemsabeh/qpave/tree/main/data). Once you unzip the downloaded files, please put the downloaded folders under the directory ```./data/```.
 3. Install the required dependencies in the ```requirements.txt``` file:
     ```
     $ pip install -r requirements.txt
